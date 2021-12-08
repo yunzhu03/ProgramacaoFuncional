@@ -1,5 +1,14 @@
-module ProgramacaoFuncional where
+{- |
+Module      : PF_fichas
+Description : Funções de ordem superior
+Copyright   : LingYun Zhu <a100820@alunos.uminho.pt>;          
 
+Resolução da ficha 5 de Programação Funcional por mim.
+Nota: Pode estar tudo mal.
+-}
+
+module PF_fichas where 
+    
 --3
 
 matriz1 = [[2,4,0,6],
